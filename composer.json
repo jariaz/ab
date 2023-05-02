@@ -13,7 +13,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "^5.0",
         "namshi/ab": "^1.1"
     },
     "autoload": {
